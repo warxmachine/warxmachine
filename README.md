@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @warxmachine
-- 👀 I’m interested in hardcoding, ML-AI, Large Data Sets, Android-IOS Development, WebD and much more.
-- 🌱 I’m currently learning Neurals
-- 💞️ I’m looking to collaborate on Numpy
-- 📫 How to reach me shubhendu@cybersin.in
+- EVERY THING IS PRIVATE
 
 <!---
 warxmachine/warxmachine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
